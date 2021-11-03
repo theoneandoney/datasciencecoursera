@@ -1,4 +1,5 @@
 ## README.md
+
 ### Solution to the Johns Hopkins Getting and Cleaning Data Coursera Course final assignment
 
 <p>This repository contains my notes and solutions for all of the Johns Hopkins Data Science Coursera courses.  Each of the courses are contained as separate subfolders in the repo, with this folder containing the "Getting and Cleaning Data" course.  It contants the following files/folders:</p>
